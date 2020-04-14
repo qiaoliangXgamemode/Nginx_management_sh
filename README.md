@@ -1,1 +1,2 @@
 # Nginx_management_sh
+这是一个学习Lnux的东西是我随便乱写的
